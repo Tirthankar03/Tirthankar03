@@ -7,7 +7,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Tirthankar03&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tirthankar03&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 
 # 💻 Tech Stack
