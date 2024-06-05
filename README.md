@@ -5,9 +5,6 @@
 🎨 Collaboration, transparency, and a commitment to excellence are at the core of my development philosophy.<br/>
 🌷 I'm excited to connect and collaborate with fellow developers to code something truly amazing. Let's embark on this journey together!<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Tirthankar03&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tirthankar03&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 
 # 💻 Tech Stack
@@ -35,3 +32,16 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tirthankar03&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tirthankar03&theme=radical)](https://git.io/streak-stats)
+</br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tirthankar03&label=Profile%20views&color=0e75b6&style=flat" alt="tirthankar03" /> </p>
+
+
+# 🏆 GitHub Trophies 
+![](https://github-profile-trophy.vercel.app/?username=Tirthankar03&theme=radical&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15")
+</br>
+
