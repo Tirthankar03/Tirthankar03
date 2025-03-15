@@ -4,6 +4,7 @@
 👩🏻‍🎓 I thrive on pushing boundaries, ensuring every project delivers exceptional results, driven by a relentless pursuit of perfection.<br/>
 🎨 Collaboration, transparency, and a commitment to excellence are at the core of my development philosophy.<br/>
 🌷 I'm excited to connect and collaborate with fellow developers to code something truly amazing. Let's embark on this journey together!<br/>
+🔗 portfolio: https://tirthankarnath.vercel.app
 
 
 
